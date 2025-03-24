@@ -48,7 +48,6 @@ sections:
         features:
           - Risk Free 7-day Trial
           - 'Up to 60,000 words'
-          - Feature four
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
