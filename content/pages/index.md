@@ -31,11 +31,6 @@ sections:
         style: primary
         elementId: ''
         type: Link
-    media:
-      url: /images/Screenshot 2025-03-22 203639_resizedcopy.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: This is a badge
       color: text-primary
