@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: ''
     text: |+
       <div style="text-align: center">## at speed you want</div>
