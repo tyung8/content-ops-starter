@@ -42,7 +42,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
+      - title: Tier 2
         price: $0.06
         details: per word
         description: |+
