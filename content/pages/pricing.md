@@ -45,7 +45,7 @@ sections:
         type: PricingPlan
       - title: Professional
         price: $0.05
-        details: per month
+        details: per word
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
