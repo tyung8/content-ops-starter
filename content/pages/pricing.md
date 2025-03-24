@@ -14,9 +14,8 @@ sections:
       - title: Freelancer
         price: $0.07
         details: per word
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Risk Free 7-day Trial
         features:
           - Feature one
           - Feature two
