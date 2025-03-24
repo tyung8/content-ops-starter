@@ -68,6 +68,7 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
+            textAlign: center
         type: PricingPlan
       - title: Tier 3
         price: Custom
