@@ -45,9 +45,8 @@ sections:
       - title: Tier 2
         price: $0.06
         details: per word
-        description: |+
-          Risk Free 7-day Trial
-
+        description: |
+          Professional
         features:
           - Feature one
           - Feature two
