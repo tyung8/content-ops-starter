@@ -17,7 +17,7 @@ sections:
         description: |
           Risk Free 7-day Trial
         features:
-          - Feature one
+          - Risk Free 7-day Trial
           - Feature two
           - Feature three
           - Feature four
