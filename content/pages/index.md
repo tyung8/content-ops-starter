@@ -12,7 +12,7 @@ sections:
           textAlign: center
     subtitle: ''
     text: |+
-      <div style="text-align: center"># at the Speed you Want</div>
+      <div style="text-align: center">## at the Speed you Want</div>
 
     actions:
       - label: Get started
