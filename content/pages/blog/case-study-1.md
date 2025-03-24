@@ -1,14 +1,14 @@
 ---
-title: Case study 1
+title: ChemFreeGuys Blog
 slug: case-study-1
-date: '2022-01-05'
+date: '2023-10-01'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/Screenshot 2025-03-22 203639_resizedcopy.jpg
   altText: Case study 1
   styles:
     self:
