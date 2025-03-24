@@ -107,6 +107,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 400
     type: PricingSection
 seo:
   metaTitle: Pricing - Demo site
