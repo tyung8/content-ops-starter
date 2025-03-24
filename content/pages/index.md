@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Content you need, at the speed you need'
+      text: 'Content you need, at the speed you want'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
