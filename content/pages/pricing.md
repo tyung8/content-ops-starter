@@ -76,7 +76,6 @@ sections:
           Enterprise
         features:
           - Uncapped Content
-          - Feature four
           - Feature five
         image:
           url: /images/abstract-feature3.svg
