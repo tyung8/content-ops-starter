@@ -38,6 +38,7 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
+            textAlign: center
         type: PricingPlan
       - title: Tier 2
         price: $0.07
