@@ -74,7 +74,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
+      - title: Tier 3
         price: Custom
         details: per word
         description: |
