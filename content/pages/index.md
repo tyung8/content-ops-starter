@@ -51,7 +51,7 @@ sections:
           - pr-16
         justifyContent: center
         margin:
-          - mb-10
+          - mb-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
