@@ -117,7 +117,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: '3'
+      - title: 3 days
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
