@@ -12,7 +12,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - title: Freelancer
-        price: $0.06
+        price: $0.07
         details: per word
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
