@@ -15,7 +15,7 @@ sections:
         price: $0.07
         details: per word
         description: |
-          Solopreneurs and Freelancers
+          Solopreneurs & Freelancers
         features:
           - Risk Free 7-day Trial
           - 'Up to 25,000 words'
