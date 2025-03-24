@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Content that doesn't break the bank
     plans:
       - title: Tier 1
         price: $0.08
