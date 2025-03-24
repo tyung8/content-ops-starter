@@ -76,7 +76,6 @@ sections:
           Enterprise
         features:
           - Uncapped Content
-          - Feature two
           - Feature three
           - Feature four
           - Feature five
