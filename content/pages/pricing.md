@@ -15,7 +15,7 @@ sections:
         price: $0.07
         details: per word
         description: |
-          Risk Free 7-day Trial
+          For Solopreneurs and Freelancers
         features:
           - Risk Free 7-day Trial
           - Feature two
