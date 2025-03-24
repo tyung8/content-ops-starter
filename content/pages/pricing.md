@@ -47,7 +47,7 @@ sections:
           Professional
         features:
           - Risk Free 7-day Trial
-          - Feature two
+          - 'Up to 60,000 words'
           - Feature three
           - Feature four
         image:
