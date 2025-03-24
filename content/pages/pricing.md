@@ -76,7 +76,7 @@ sections:
           Enterprise
         features:
           - Uncapped Content
-          - Feature five
+          - Customizable Workflow
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
