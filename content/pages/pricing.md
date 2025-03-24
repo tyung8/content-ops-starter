@@ -78,7 +78,7 @@ sections:
         price: Custom
         details: per word
         description: |
-          Unlimited Content
+          Enterprise
         features:
           - Feature one
           - Feature two
