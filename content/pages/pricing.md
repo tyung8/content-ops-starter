@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Freelancer
+      - title: Tier 1
         price: $0.07
         details: per word
         description: |
