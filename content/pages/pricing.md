@@ -99,6 +99,7 @@ sections:
               - pr-6
             borderRadius: large
             textAlign: center
+            justifyContent: center
         type: PricingPlan
     colors: bg-light-fg-dark
     styles:
