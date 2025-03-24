@@ -119,10 +119,9 @@ sections:
         type: FeaturedItem
       - title: 3 days
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We turn work orders around in just 3 days with an extensive team of
+          writers, always ready to jump on the next assignment.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
