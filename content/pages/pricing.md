@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: scale to your needs
+    subtitle: scaled to your needs
     plans:
       - title: Tier 1
         price: $0.08
