@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Freelancer
         price: $0.06
-        details: No credit card required
+        details: per word
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
