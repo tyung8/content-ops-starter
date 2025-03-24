@@ -49,7 +49,6 @@ sections:
           - Risk Free 7-day Trial
           - 'Up to 60,000 words'
         image:
-          url: /images/abstract-feature2.svg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
