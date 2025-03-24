@@ -77,9 +77,8 @@ sections:
       - title: Enterprise
         price: Custom
         details: per word
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |
+          Unlimited Content
         features:
           - Feature one
           - Feature two
