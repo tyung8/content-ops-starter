@@ -44,7 +44,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Professional
-        price: $0.05
+        price: $0.06
         details: per word
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
