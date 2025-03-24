@@ -18,7 +18,7 @@ sections:
           Solopreneurs and Freelancers
         features:
           - Risk Free 7-day Trial
-          - Feature two
+          - 'Up to 25,000 words'
           - Feature three
           - Feature four
         image:
