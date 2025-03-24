@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       <div style="text-align: center">A Netlify Create website is a git repo
       that you own. Every code commit is instantly reflected in the visual
